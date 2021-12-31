@@ -1,5 +1,5 @@
 on: push
-name: 🚀 Deploy image's to ftp on push
+name: 🚀 Deploy website and file's to ftp on push
 jobs:
   web-deploy:
     name: 🎉 Deploy
